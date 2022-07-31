@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    
+}
+#filterinput{
+    background-color: antiquewhite;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+nav{
+    background-color: aqua;
+}
+.img{
+    width: 250px;
+    height:350px;
+    background-color: rgb(red, green, blue);
+
+}
+
+
+body{
+    background-color: antiquewhite;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+ 
+  .item{
+    display: flexbox;
+    box-sizing: border-box;
+    margin: auto;
+
+  }
+
+  
